@@ -1,6 +1,6 @@
  Hi, I’m Gregory Emony 👋
  
-I’m a data analyst/scientist who’s passionate about providing actionable insights for any business need. I enjoy learning new languages, framework, and analytical method. So far, I have worked with Python,R, Tableau, SQL, MySQL, Snowflakes and Excel.In 2022, I would love to dive deep into robotics, artificial intelligence, and machine learning.
+I’m a data analyst/scientist who’s passionate about providing actionable insights for any business need. I enjoy learning new languages, frameworks, and analytical methods. So far, I have worked with Python, R, Tableau, SQL, MySQL, Snowflakes, and Excel. In 2022, I would love to dive deep into robotics, artificial intelligence, and machine learning.
 
 - 👀 I’m a data analyst/scientist who’s passionate about providing actionable insights for any business need. 
 - ✨ I'm comfortable in data cleaning, data modeling, data warehousing, and vizualisation.
